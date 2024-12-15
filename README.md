@@ -79,7 +79,7 @@ Contributing
 If you want to contribute to the project, feel free to fork the repository and submit pull requests. Suggestions and improvements are always welcome.
 
 ## Contributors:
-Patnam Sreevani
-Email: sreevanipatnam111@gmail.com
+Ramavath Vijaya
+Email:vijayasree75321 
 ## Live Demo:
-  https://sreevani77.github.io/RBAC-UI/
+  https://vijaya50.github.io/RBAC-UI/
