@@ -80,6 +80,4 @@ If you want to contribute to the project, feel free to fork the repository and s
 
 ## Contributors:
 Ramavath Vijaya
-Email:vijayasree75321 
-## Live Demo:
-  https://vijaya50.github.io/RBAC-UI/
+Email:vijayasree75321@gmail.com
